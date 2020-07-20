@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ea91dfe.chunk.css",
+    "main.js": "/static/js/main.cc4be951.chunk.js",
+    "main.js.map": "/static/js/main.cc4be951.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.28dc6147.js",
+    "runtime-main.js.map": "/static/js/runtime-main.28dc6147.js.map",
+    "static/js/2.3f4429fa.chunk.js": "/static/js/2.3f4429fa.chunk.js",
+    "static/js/2.3f4429fa.chunk.js.map": "/static/js/2.3f4429fa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dca3fdd6c0768d2c5d4b4c6bf66b61bd.js": "/precache-manifest.dca3fdd6c0768d2c5d4b4c6bf66b61bd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9ea91dfe.chunk.css.map": "/static/css/main.9ea91dfe.chunk.css.map",
+    "static/js/2.3f4429fa.chunk.js.LICENSE.txt": "/static/js/2.3f4429fa.chunk.js.LICENSE.txt",
+    "static/media/back-arrow.svg": "/static/media/back-arrow.e2df2cbf.svg",
+    "static/media/backgroundImg.png": "/static/media/backgroundImg.fc568113.png",
+    "static/media/earth.svg": "/static/media/earth.5192d53e.svg",
+    "static/media/github-logo.png": "/static/media/github-logo.a9559ffd.png",
+    "static/media/suitcase.svg": "/static/media/suitcase.4123a3c5.svg",
+    "static/media/time.svg": "/static/media/time.27b96317.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28dc6147.js",
+    "static/js/2.3f4429fa.chunk.js",
+    "static/css/main.9ea91dfe.chunk.css",
+    "static/js/main.cc4be951.chunk.js"
+  ]
+}
